@@ -1,0 +1,2 @@
+# cocmin
+date>&lt;
